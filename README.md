@@ -3,12 +3,12 @@ Analysis on citibike business
 ## Overview of Project
 In this project, we used Pandas and Tableau to organize citibike data of August 2019. The results are visualized in Tableau. This analysis is to show critical information about this business. Five visualizations are generated in Tableau, so the data is easier to be analyzed.
 ## Results
-![results](Resources/results.png)
-<br />-Total votes casted in this election : 369,711
--Overall, 10.5% of total votes are from Jefferson county, 82.8% are from Denver, 6.7% are from Arapahoe. Vote counts respectively are 38,855, 306,055, 24,801.
--Obviously, Denver does contribute the most to the vote counts. Over 80% of votes are from Denver.
-<br />![candidates](Resources/candidates.png)
-<br />-Overall, Charles Casper Stockham received 23.0% of the total votes, Dianna DeGette received 73.8%, Raymon Anthony Doane received 3.1% of the total votes. Votes are 85,213, 272,892, 11,606 respectively.
+![checkout_times_for_user](checkout_times_for_users.PNG)
+According to this visualization, bikes checkedout for around 4-5 hours are the most. They usually checkout bikes under 5 hours. The number of bikes checkedout for more than 5 hours are decreasing.
+
+[checkout_times_by_gender](checkout_times_by_gender.PNG)
+According to this graph, males users are substantially more than female users. They follow the pattern decribed above. Checkout time around 4-5 hours are the most popular.
+
 
 <br />![winner](Resources/winner.png)
 <br />-Dianna Degette won the election with an unbeatable support rate of 73.8%.
