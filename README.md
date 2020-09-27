@@ -19,3 +19,6 @@ This graph enforces the above findings. Bikes checkedout by males are much more 
 According to this visualization, most users of citibike are subscribers. And among these subscribers, most of them are male. Thursday and Fridays have the most users.
 ## Summary
 The most busy day for the users using citibike are Thursday and Friday and the time periods are from 6am o 9am and from 4pm to 7pm. Some other visualizations I would use to do further analysis include start and stop station user count to analyze the most popular stations and the birth year graph to analyze the life time of the bike which helps in estimating renovation and fixing costs.
+
+## Tableau Public
+[link to my workbook](https://public.tableau.com/profile/yajing.ran#!/vizhome/Challenge_16012418307870/Story1)
